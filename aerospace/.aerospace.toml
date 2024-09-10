@@ -56,7 +56,6 @@ cmd-r = [
 
 cmd-g = 'mode join'
 cmd-q = ['close --quit-if-last-window']
-cmd-w = []
 
 # All possible keys:
 # - Letters.        a, b, c, ..., z
